@@ -8,13 +8,25 @@ narrow: true
 
 <hr />
 
-The about page allows you to expand a bit more on the intro. Add some more information here about your skills, experience, etc.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I'm an alumni of Dublin Institute of Technology (with a degree in Computer Science). I started my career as a Cloud Support Associate with AWS, and I'm currently working as a Cloud Support Engineer (also with AWS). 
 
 ### Technology
 
+* AWS 
+	* EC2 Container Service (ECS)
+	* CloudFormation
+	* Elastic Beanstalk
+	* CodeDeploy
+	* CodePipeline
+	* CodeBuild
+	* OpsWorks
 * JavaScript
-* Python
-* Go
-* Etc
+* Node.js
+* Linux Systems
+
+### Interests
+
+* Software Development
+* Cloud Architecture
+* User Experience Design
+* DevOps
